@@ -1,0 +1,9 @@
+html {
+}
+body {
+  background: #000;
+  color: #FFF;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
